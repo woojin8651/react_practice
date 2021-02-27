@@ -2,10 +2,10 @@
 위 프로젝트는 리액트 기능 학습을 위해 만들어진 프로젝트입니다.
 
 # 개발환경
-M1 Macbook 8G 256G
-VSCode 
-React JS
-Node JS Express
+M1 Macbook 8G 256G\
+VSCode \
+React JS\
+Node JS Express\
 undefine DB (미선택)
 
 # 개발 목적
